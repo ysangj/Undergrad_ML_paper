@@ -1,2 +1,6 @@
-# Machine-Learning-Paper
-This is the repository for Undergrad ML course final paper. Four papers regarding early stage Deep Learning are merged into a final draft.
+# NYU_undergrad_machine_learning_project
+
+This repository is for Professor Kyung Hyun Cho's undergraduate Machine Learning final project.
+Four papers regarding perceptron, neocognitron to modern convolutional networks have been selected,
+and merged into a new paper.
+
